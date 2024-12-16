@@ -1,0 +1,7 @@
+# current_scanner_id = self.data["env"].get("scanned_id")
+# env = execution.environment
+#
+# with open('D:\\Auto\\kofile-automation\\Kofile\\projects\\Kofile\\environments.json', 'r') as f:
+#     my_data = json.load(f)
+#     scanner_id_json = my_data[f"{env}"]["scanned_id"]
+#     print(scanner_id_json)

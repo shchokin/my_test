@@ -1,0 +1,64 @@
+{
+    "code": "69999",
+    "config_name": "dev",
+    "scanned_id": 158,
+    "domain": "crs.qa-1.kofile.systems",
+    "config_import_path": "projects.Kofile.testdata",
+    "url": "http://%s:%s@10.0.1.73:8001/%s/?ReturnUrl=http://crs.qa-1.kofile.systems/%s/Account/ReturnClaim&amp;Referrer=",
+    "clerk_search_url": "http://%s:%s@10.0.1.73:8001/%s/?ReturnUrl=http://clerksearch.qa-1.kofile.systems/%s/Security/ReturnClaim?clerkMode=True",
+    "portal": "http://%s:%s@10.0.1.73:8001/%s/?ReturnUrl=http://portal.qa-1.kofile.systems/%s/",
+    "ftp": "ftp://ftptesting:kofileftp@10.204.10.6/%s/Exports/",
+    "erProxy": "http://erproxy.qa-1.kofile.systems/%s",
+    "user": [
+      "artyom.shchokin",
+      "User4",
+      "User5",
+      "User6"
+    ],
+    "user_first": [
+      "Artyom",
+      "user4",
+      "user5",
+      "user6"
+    ],
+    "user_last": [
+      "Shchokin",
+      "user4",
+      "user5",
+      "user6"
+    ],
+    "drawer": {
+      "type": "user",
+      "init_popup": true,
+      "init_same_day_popup": false
+    },
+    "drawer_id": [
+      674,
+      685,
+      686,
+      1371
+    ],
+    "password": [
+      "230885ShArVl28",
+      "Automation_4_18",
+      "Automation_5_8",
+      "Automation_6_5"
+    ],
+    "email_user": "tumovas@gmail.com",
+    "guest_user": "nel",
+    "kiosk_user_email": "vimmelluqe-3279@yopmail.com",
+    "kiosk_user_password": "00000",
+    "azure": {
+      "account_name": "vgdevimages",
+      "account_key": "VyTBoC6Fq2RAT/L3GARPnle2ALkD1SJjexb2N5gqasK+7px2hfddhAI/yMEyXPnluok+1DvAMHxFSlayIXu8Xg=="
+    },
+    "project_db": {
+      "database": "VANGUARD_TX_QA",
+      "driver": "{SQL Server}",
+      "user": "qa1",
+      "password": "deadbeef",
+      "server": "10.0.0.7"
+    },
+    "printer_id": 99
+  }
+  
